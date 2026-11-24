@@ -41,34 +41,34 @@ atau token.
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
-<h3>🔄</h3>
+<img src="assets/icons/update.png" width="46" alt="" /><br />
 <b>Pembaruan di aplikasi</b><br />
 <sub>Cek, unduh, dan pasang versi baru tanpa membuka browser.</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<h3>🛡️</h3>
+<img src="assets/icons/secure.png" width="46" alt="" /><br />
 <b>Unduhan terverifikasi</b><br />
 <sub>APK ditandatangani kunci rilis NIMA dan dilengkapi SHA-256.</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<h3>📴</h3>
+<img src="assets/icons/offline.png" width="46" alt="" /><br />
 <b>Tetap produktif</b><br />
 <sub>Antrean offline menyimpan pekerjaan saat sinyal terputus.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%" valign="top">
-<h3>🧭</h3>
+<img src="assets/icons/map.png" width="46" alt="" /><br />
 <b>Peta dan rute</b><br />
 <sub>Lihat tiket di peta dan susun rute multi-titik.</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<h3>📄</h3>
+<img src="assets/icons/report.png" width="46" alt="" /><br />
 <b>Laporan siap kirim</b><br />
 <sub>Ekspor PDF dan CSV langsung dari perangkat.</sub>
 </td>
 <td align="center" width="33%" valign="top">
-<h3>🔐</h3>
+<img src="assets/icons/lock.png" width="46" alt="" /><br />
 <b>Data tetap privat</b><br />
 <sub>Kunci aplikasi, ID tersamarkan, dan sesi berbatas waktu.</sub>
 </td>
@@ -152,60 +152,68 @@ juga memverifikasi checksum secara otomatis bila aset tersebut tersedia.
 
 <details>
 <summary><b>Apakah APK ini resmi?</b></summary>
-<br />
+
 Ya. APK diterbitkan oleh pembuat NIMA dan ditandatangani dengan kunci rilis
 NIMA yang tetap, sehingga pembaruan dapat dipasang di atas versi sebelumnya.
 Unduh hanya dari halaman rilis ini.
+
 </details>
 
 <details>
 <summary><b>Mengapa Play Protect menampilkan peringatan?</b></summary>
-<br />
+
 APK ini dipasang di luar Play Store, sehingga Android dapat menampilkan
 peringatan. Selama berkas berasal dari halaman rilis ini dan checksum-nya
 cocok, berkas tersebut adalah berkas resmi NIMA.
+
 </details>
 
 <details>
 <summary><b>Muncul “Aplikasi tidak terpasang”. Apa yang harus dilakukan?</b></summary>
-<br />
+
 Biasanya karena versi lama memakai kunci tanda tangan berbeda. Hapus NIMA
 sekali, reboot ponsel, lalu pasang ulang. Data aplikasi akan hilang dan perlu
 login ulang.
+
 </details>
 
 <details>
 <summary><b>Versi beta tidak muncul.</b></summary>
-<br />
+
 Buka **Pengaturan → Pembaruan aplikasi**, lalu aktifkan
 **Ikuti pra-rilis (beta)**. Setelah itu tekan **Cek pembaruan**.
+
 </details>
 
 <details>
 <summary><b>Apakah data saya dikirim ke GitHub?</b></summary>
-<br />
+
 Tidak. GitHub hanya dipakai untuk membaca daftar rilis dan mengunduh APK.
 Data operasional tetap dikirim ke layanan NISA/MAIA seperti biasa.
+
 </details>
 
 <details>
 <summary><b>Apakah saya perlu akun GitHub?</b></summary>
-<br />
+
 Tidak. Aplikasi tidak meminta login GitHub dan tidak menyimpan token GitHub.
+
 </details>
 
 <details>
 <summary><b>Di mana kode sumbernya?</b></summary>
-<br />
+
 Kode sumber disimpan di repositori privat. Repositori ini hanya berisi berkas
 rilis yang boleh diunduh publik.
+
 </details>
 
 <details>
 <summary><b>Bagaimana jika saya mengalami kendala?</b></summary>
-<br />
+
 Hubungi admin atau tim IT operasi Anda. Sertakan versi NIMA yang terpasang
 (terlihat di **Pengaturan → Tentang NIMA**) dan pesan kesalahannya.
+
 </details>
 
 <img src="assets/divider.png" width="100%" alt="" />
@@ -214,7 +222,7 @@ Hubungi admin atau tim IT operasi Anda. Sertakan versi NIMA yang terpasang
 
 <details>
 <summary><b>NIMA in English</b></summary>
-<br />
+
 
 NIMA is the Android field-operations app that brings NISA and MAIA workflows
 together for MyRepublic field officers. Download the latest APK from the
