@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="NIMA — NISA + MAIA dalam satu aplikasi" width="100%" />
+<a href="https://github.com/KoRifCan/nima-releases/releases/latest">
+  <img src="assets/banner.png" alt="NIMA — NISA + MAIA dalam satu aplikasi" width="100%" />
+</a>
 
 <br />
 
