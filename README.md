@@ -40,6 +40,16 @@ Halaman ini adalah **kanal unduhan resmi** NIMA. Yang dipublikasikan di sini
 hanya berkas pemasangan dan pembaruan — tidak ada data pelanggan, kata sandi,
 atau token.
 
+<div align="center">
+<sub>
+<a href="#kerja-lapangan-dalam-satu-genggaman">Fitur</a> ·
+<a href="#mulai-dalam-tiga-langkah">Pemasangan</a> ·
+<a href="#pembaruan-tanpa-ribet">Pembaruan</a> ·
+<a href="#unduhan-aman">Verifikasi</a> ·
+<a href="#pertanyaan-yang-sering-muncul">FAQ</a>
+</sub>
+</div>
+
 <table>
 <tr>
 <td align="center" width="33%" valign="top">
