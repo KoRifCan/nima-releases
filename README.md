@@ -1,7 +1,9 @@
 # NIMA
 
 **NIMA** adalah aplikasi Android untuk operasi lapangan yang menyatukan
-pekerjaan **NISA** dan **MAIA** dalam satu aplikasi. Dibuat oleh **KoRifCan**.
+pekerjaan **NISA** dan **MAIA** dalam satu aplikasi. Aplikasi ini dipakai oleh
+petugas lapangan **MyRepublic** untuk mengakses tiket, FAT Loss, peta, dan
+aktivitas operasional lainnya. Dibuat oleh **KoRifCan**.
 
 Halaman ini adalah tempat unduhan resmi APK NIMA. Yang tersedia di sini hanya
 berkas pemasangan dan pembaruan — tidak ada data pelanggan, kata sandi, atau
@@ -109,6 +111,10 @@ Tidak.
 **Di mana kode sumbernya?**
 Kode sumber disimpan di repositori privat. Repositori ini hanya berisi berkas
 rilis yang boleh diunduh publik.
+
+**Bagaimana jika saya mengalami kendala?**
+Hubungi admin atau tim IT operasi Anda, lalu sertakan versi NIMA yang
+terpasang (terlihat di **Pengaturan → Tentang NIMA**) dan pesan kesalahannya.
 
 ## Riwayat versi
 
