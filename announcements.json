@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": 35,
+  "revision": 36,
   "enabled": true,
-  "updatedAt": "2026-11-25T19:09:14.165923Z",
+  "updatedAt": "2026-11-25T19:09:26.445820Z",
   "updatedBy": "KoRifCan",
   "announcements": [
     {
@@ -12,12 +12,13 @@
       "priority": "warning",
       "channels": [],
       "minBuild": 0,
+      "publishAt": "2026-11-25T19:09:26.445810Z",
       "pinned": true,
       "dismissible": false,
-      "enabled": false,
+      "enabled": true,
       "actionUrl": "https://www.tiktok.com/@korifcan",
       "createdAt": "2026-11-25T19:08:45.617937Z",
-      "updatedAt": "2026-11-25T19:09:14.165913Z"
+      "updatedAt": "2026-11-25T19:09:26.445810Z"
     },
     {
       "id": "ann-20261125-pengumuman",
