@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": 18,
+  "revision": 19,
   "enabled": true,
-  "updatedAt": "2026-11-25T15:04:37.293277Z",
+  "updatedAt": "2026-11-25T15:14:49.631589Z",
   "updatedBy": "KoRifCan",
   "announcements": [
     {
@@ -19,7 +19,7 @@
       "actionLabelEn": "TikTok",
       "actionUrl": "https://www.tiktok.com/@korifcan",
       "createdAt": "2026-11-25T15:01:45.337951Z",
-      "updatedAt": "2026-11-25T15:04:37.290675Z"
+      "updatedAt": "2026-11-25T15:14:49.631581Z"
     }
   ]
 }
