@@ -1,27 +1,10 @@
 {
   "schema": 1,
-  "revision": 15,
+  "revision": 16,
   "enabled": true,
-  "updatedAt": "2026-11-25T14:35:16.180507Z",
+  "updatedAt": "2026-11-25T14:35:21.079344Z",
   "updatedBy": "KoRifCan",
   "announcements": [
-    {
-      "id": "ann-20261125-uji-coba-fitur-beta",
-      "title": "Uji coba fitur beta",
-      "body": "Fitur baru sedang diuji untuk kanal Beta. Jika Anda menemukan masalah, kirim laporan melalui menu Bantuan dengan menyertakan versi aplikasi dan langkah singkatnya.",
-      "titleEn": "Beta feature test",
-      "bodyEn": "A new feature is being tested on the Beta channel. If you find an issue, send a report from the Help menu with the app version and short reproduction steps.",
-      "priority": "info",
-      "channels": [
-        "beta"
-      ],
-      "minBuild": 0,
-      "pinned": false,
-      "dismissible": true,
-      "enabled": true,
-      "createdAt": "2026-11-25T14:07:42.571258Z",
-      "updatedAt": "2026-11-25T14:07:44.985096Z"
-    },
     {
       "id": "ann-20261125-masukan-anda-untuk-nima",
       "title": "Masukan Anda untuk NIMA",
