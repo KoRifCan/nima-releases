@@ -1,24 +1,8 @@
 {
   "schema": 1,
-  "revision": 21,
+  "revision": 22,
   "enabled": true,
-  "updatedAt": "2026-11-25T15:22:55.674465Z",
+  "updatedAt": "2026-11-25T15:30:34.125777Z",
   "updatedBy": "KoRifCan",
-  "announcements": [
-    {
-      "id": "ann-20261125-gangguan-layanan-nima",
-      "title": "Gangguan layanan NIMA",
-      "body": "Kami sedang menangani gangguan yang membuat sebagian data tidak dapat dimuat. Tim teknis sudah bekerja dan kami akan memperbarui pengumuman ini setelah layanan pulih. Mohon jangan mengirim ulang data yang sama.",
-      "titleEn": "NIMA service disruption",
-      "bodyEn": "We are handling a disruption that prevents some data from loading. The technical team is working on it and this notice will be updated once service is restored. Please do not resubmit the same data.",
-      "priority": "critical",
-      "channels": [],
-      "minBuild": 0,
-      "pinned": true,
-      "dismissible": false,
-      "enabled": true,
-      "createdAt": "2026-11-25T15:22:27.858581Z",
-      "updatedAt": "2026-11-25T15:22:55.674456Z"
-    }
-  ]
+  "announcements": []
 }
