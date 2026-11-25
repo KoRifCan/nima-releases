@@ -1,10 +1,27 @@
 {
   "schema": 1,
-  "revision": 26,
+  "revision": 27,
   "enabled": true,
-  "updatedAt": "2026-11-25T16:30:33.723844Z",
+  "updatedAt": "2026-11-25T16:32:49.985908Z",
   "updatedBy": "KoRifCan",
   "announcements": [
+    {
+      "id": "ann-20261125-uji-coba-fitur-beta",
+      "title": "Uji coba fitur beta",
+      "body": "Fitur baru sedang diuji untuk kanal Beta. Jika Anda menemukan masalah, kirim laporan melalui menu Bantuan dengan menyertakan versi aplikasi dan langkah singkatnya.",
+      "titleEn": "Beta feature test",
+      "bodyEn": "A new feature is being tested on the Beta channel. If you find an issue, send a report from the Help menu with the app version and short reproduction steps.",
+      "priority": "info",
+      "channels": [
+        "beta"
+      ],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "createdAt": "2026-11-25T16:32:40.716010Z",
+      "updatedAt": "2026-11-25T16:32:49.985895Z"
+    },
     {
       "id": "ann-20261125-pembaruan-nima-tersedia",
       "title": "Pembaruan NIMA tersedia",
