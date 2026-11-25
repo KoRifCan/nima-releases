@@ -1,25 +1,8 @@
 {
   "schema": 1,
-  "revision": 19,
+  "revision": 20,
   "enabled": true,
-  "updatedAt": "2026-11-25T15:14:49.631589Z",
+  "updatedAt": "2026-11-25T15:22:24.620722Z",
   "updatedBy": "KoRifCan",
-  "announcements": [
-    {
-      "id": "ann-20261125-pengumuman",
-      "title": "FOLLOW TIKTOKKU YA ANJ",
-      "body": "Nasrul peler",
-      "priority": "critical",
-      "channels": [],
-      "minBuild": 0,
-      "pinned": true,
-      "dismissible": false,
-      "enabled": true,
-      "actionLabel": "TikTok",
-      "actionLabelEn": "TikTok",
-      "actionUrl": "https://www.tiktok.com/@korifcan",
-      "createdAt": "2026-11-25T15:01:45.337951Z",
-      "updatedAt": "2026-11-25T15:14:49.631581Z"
-    }
-  ]
+  "announcements": []
 }
