@@ -1,8 +1,26 @@
 {
   "schema": 1,
-  "revision": 3,
+  "revision": 4,
   "enabled": true,
-  "updatedAt": "2026-11-25T07:56:58.491908Z",
+  "updatedAt": "2026-11-25T09:06:37.472141Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261125-masukan-anda-untuk-nima",
+      "title": "Masukan Anda untuk NIMA",
+      "body": "Kami ingin mendengar pengalaman Anda memakai NIMA. Isi survei singkat melalui tautan di bawah; jawaban Anda membantu kami menentukan prioritas perbaikan.",
+      "titleEn": "Your feedback for NIMA",
+      "bodyEn": "We would like to hear how NIMA works for you. Fill in the short survey below; your answers help us prioritise fixes.",
+      "priority": "info",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": false,
+      "dismissible": true,
+      "enabled": true,
+      "actionLabel": "Isi survei",
+      "actionLabelEn": "Open survey",
+      "createdAt": "2026-11-25T08:22:50.774995Z",
+      "updatedAt": "2026-11-25T09:06:37.472012Z"
+    }
+  ]
 }
