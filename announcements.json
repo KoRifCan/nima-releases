@@ -1,10 +1,24 @@
 {
   "schema": 1,
-  "revision": 36,
+  "revision": 37,
   "enabled": true,
-  "updatedAt": "2026-11-25T19:09:26.445820Z",
+  "updatedAt": "2026-11-25T19:09:58.187787Z",
   "updatedBy": "KoRifCan",
   "announcements": [
+    {
+      "id": "ann-20261125-pengumuman-3",
+      "title": "Test 3 - Follow TikTok : KoRifCan",
+      "body": "Test 3",
+      "priority": "critical",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "actionUrl": "https://www.tiktok.com/@korifcan",
+      "createdAt": "2026-11-25T19:09:29.961540Z",
+      "updatedAt": "2026-11-25T19:09:58.187777Z"
+    },
     {
       "id": "ann-20261125-pengumuman-2",
       "title": "Test 2 - Follow TikTok : KoRifCan",
