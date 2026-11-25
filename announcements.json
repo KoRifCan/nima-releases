@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": 23,
+  "revision": 24,
   "enabled": true,
-  "updatedAt": "2026-11-25T15:31:11.646047Z",
+  "updatedAt": "2026-11-25T15:46:43.433915Z",
   "updatedBy": "KoRifCan",
   "announcements": [
     {
@@ -16,7 +16,7 @@
       "dismissible": true,
       "enabled": true,
       "createdAt": "2026-11-25T15:30:35.663925Z",
-      "updatedAt": "2026-11-25T15:31:11.646037Z"
+      "updatedAt": "2026-11-25T15:46:43.433911Z"
     }
   ]
 }
