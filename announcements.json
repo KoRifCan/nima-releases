@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": 14,
+  "revision": 15,
   "enabled": true,
-  "updatedAt": "2026-11-25T14:35:12.940829Z",
+  "updatedAt": "2026-11-25T14:35:16.180507Z",
   "updatedBy": "KoRifCan",
   "announcements": [
     {
@@ -21,24 +21,6 @@
       "enabled": true,
       "createdAt": "2026-11-25T14:07:42.571258Z",
       "updatedAt": "2026-11-25T14:07:44.985096Z"
-    },
-    {
-      "id": "ann-20261125-pembaruan-nima-tersedia",
-      "title": "Pembaruan NIMA tersedia",
-      "body": "Versi terbaru NIMA sudah tersedia dengan perbaikan dan peningkatan stabilitas. Buka halaman Pembaruan untuk memasangnya.",
-      "titleEn": "NIMA update available",
-      "bodyEn": "A newer NIMA version is available with fixes and stability improvements. Open the Update page to install it.",
-      "priority": "info",
-      "channels": [],
-      "minBuild": 0,
-      "pinned": false,
-      "dismissible": true,
-      "enabled": true,
-      "actionLabel": "Perbarui",
-      "actionLabelEn": "Update",
-      "actionRoute": "/update",
-      "createdAt": "2026-11-25T09:17:34.960682Z",
-      "updatedAt": "2026-11-25T09:17:37.411272Z"
     },
     {
       "id": "ann-20261125-masukan-anda-untuk-nima",
