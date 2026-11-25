@@ -1,24 +1,10 @@
 {
   "schema": 1,
-  "revision": 29,
+  "revision": 30,
   "enabled": true,
-  "updatedAt": "2026-11-25T19:05:56.152511Z",
+  "updatedAt": "2026-11-25T19:07:00.081318Z",
   "updatedBy": "KoRifCan",
   "announcements": [
-    {
-      "id": "ann-20261125-pengumuman",
-      "title": "Follow TikTok KoRifCan",
-      "body": "Josjis kalo di follow",
-      "priority": "info",
-      "channels": [],
-      "minBuild": 0,
-      "pinned": true,
-      "dismissible": false,
-      "enabled": true,
-      "actionUrl": "https://www.tiktok.com/@korifcan",
-      "createdAt": "2026-11-25T19:03:31.949175Z",
-      "updatedAt": "2026-11-25T19:05:56.152498Z"
-    },
     {
       "id": "ann-20261125-pemeliharaan-layanan-terjadwal",
       "title": "Pemeliharaan layanan terjadwal",
