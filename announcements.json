@@ -1,8 +1,23 @@
 {
   "schema": 1,
-  "revision": 33,
+  "revision": 34,
   "enabled": true,
-  "updatedAt": "2026-11-25T19:07:22.742933Z",
+  "updatedAt": "2026-11-25T19:08:41.877567Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261125-pengumuman",
+      "title": "Test 1 - Follow TikTok : KoRifCan",
+      "body": "Yang merasa ganteng follow dulu yak",
+      "priority": "info",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "actionUrl": "https://www.tiktok.com/@korifcan",
+      "createdAt": "2026-11-25T19:07:33.783914Z",
+      "updatedAt": "2026-11-25T19:08:41.877559Z"
+    }
+  ]
 }
