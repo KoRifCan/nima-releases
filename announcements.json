@@ -1,25 +1,10 @@
 {
   "schema": 1,
-  "revision": 13,
+  "revision": 14,
   "enabled": true,
-  "updatedAt": "2026-11-25T14:35:09.144840Z",
+  "updatedAt": "2026-11-25T14:35:12.940829Z",
   "updatedBy": "KoRifCan",
   "announcements": [
-    {
-      "id": "ann-20261125-jadwal-layanan-hari-libur",
-      "title": "Jadwal layanan hari libur",
-      "body": "Pada [tanggal] tim dukungan hanya melayani kebutuhan mendesak. Tiket yang masuk akan diproses kembali pada hari kerja berikutnya. Terima kasih atas pengertiannya.",
-      "titleEn": "Holiday service schedule",
-      "bodyEn": "On [date] the support team will handle urgent requests only. New tickets will be processed on the next working day. Thank you for understanding.",
-      "priority": "info",
-      "channels": [],
-      "minBuild": 0,
-      "pinned": false,
-      "dismissible": true,
-      "enabled": true,
-      "createdAt": "2026-11-25T14:07:55.466138Z",
-      "updatedAt": "2026-11-25T14:08:01.806920Z"
-    },
     {
       "id": "ann-20261125-uji-coba-fitur-beta",
       "title": "Uji coba fitur beta",
