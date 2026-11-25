@@ -1,8 +1,22 @@
 {
   "schema": 1,
-  "revision": 22,
+  "revision": 23,
   "enabled": true,
-  "updatedAt": "2026-11-25T15:30:34.125777Z",
+  "updatedAt": "2026-11-25T15:31:11.646047Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261125-pengumuman",
+      "title": "NASRUL PELER",
+      "body": "KONTOL",
+      "priority": "critical",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": true,
+      "enabled": true,
+      "createdAt": "2026-11-25T15:30:35.663925Z",
+      "updatedAt": "2026-11-25T15:31:11.646037Z"
+    }
+  ]
 }
