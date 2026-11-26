@@ -7,30 +7,30 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-26T15:47:31.384244Z",
+    "issuedAt": "2026-11-26T15:57:54.759705Z",
     "keyId": "nima-control-2026",
     "leaseHours": 6,
     "message": {
-      "en": "NIMA services are operating normally.",
-      "id": "Layanan NIMA berjalan normal."
+      "en": "An administrator has temporarily disabled NIMA access. Contact the support team if you need help.",
+      "id": "Administrator menghentikan akses NIMA untuk sementara. Hubungi tim pendukung bila Anda membutuhkan bantuan."
     },
-    "mode": "active",
-    "reason": "ACTIVE",
-    "revision": 21,
+    "mode": "disabled",
+    "reason": "DISABLED",
+    "revision": 22,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
       "maxBuild": null,
-      "minBuild": 33
+      "minBuild": 0
     },
     "title": {
-      "en": "NIMA is active",
-      "id": "NIMA aktif"
+      "en": "NIMA access is temporarily disabled",
+      "id": "Akses NIMA dihentikan, Nasrul dilarang curang"
     }
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "Sq3NXkvy8Lel-8vP5f7N5ekrCnZcfgelRwPbkn27SV2100UTTNV1TPK8BeQPuhocBlCj1bUfbBhqkbB5PoEtCg"
+    "value": "aNg6zEZxGVXOT2x1ejffLhSDHLREMg2KGL5ZoLMZ5wUxvmEfOEJFMHeJDjs6zFS4_lAzogdVlKUulp92_-xQBA"
   }
 }
