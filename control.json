@@ -7,29 +7,29 @@
       "revokeSessions": true,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-26T14:27:09.158991Z",
+    "issuedAt": "2026-11-26T14:29:09.889660Z",
     "keyId": "nima-control-2026",
     "leaseHours": 24,
     "message": {
-      "en": "All NIMA services are running normally. This message marks the first signed control revision.",
-      "id": "Semua layanan NIMA berjalan normal. Pesan ini menandai revisi kontrol pertama yang ditandatangani."
+      "en": "An administrator has temporarily disabled NIMA access. Contact the support team if you need help.",
+      "id": "Administrator menghentikan akses NIMA untuk sementara. Hubungi tim pendukung bila Anda membutuhkan bantuan."
     },
     "mode": "disabled",
-    "reason": "INITIAL-ACTIVE",
-    "revision": 2,
+    "reason": "DISABLED",
+    "revision": 3,
     "schema": 1,
     "target": {
       "maxBuild": null,
       "minBuild": 0
     },
     "title": {
-      "en": "NIMA is active",
-      "id": "NIMA aktif"
+      "en": "NIMA access is temporarily disabled",
+      "id": "Akses NIMA dihentikan sementara"
     }
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "44iE4OS1FkOmqhiL1JUmnvxBMJqdk4YM6QLNpzMKLtH3GYbsWghc7cjijl_HcqYxwujp1lBsj9bVBmDOPpyhDA"
+    "value": "XbdmQkN0wRXGkCbvKcIjtDBZfpyORxHAAULvP3aOsJzLfjP0bxIDFEjYvM5peMefMRVBXELNGlMOiAWPjNweAQ"
   }
 }
