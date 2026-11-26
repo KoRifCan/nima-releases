@@ -1,8 +1,24 @@
 {
   "schema": 1,
-  "revision": 55,
+  "revision": 56,
   "enabled": true,
-  "updatedAt": "2026-11-26T16:18:49.914599Z",
+  "updatedAt": "2026-11-26T17:16:51.310586Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261126-pemeliharaan-layanan-terjadwal",
+      "title": "Pemeliharaan layanan, Sedang perbaikan tiket NISA",
+      "body": "NIMA akan menjalani pemeliharaan pada tanggal 27 di jam 00:00. Selama proses ini sebagian data mungkin tidak dapat diperbarui. Simpan pekerjaan Anda dan coba lagi setelah pemeliharaan selesai.",
+      "titleEn": "Scheduled maintenance, NISA ticket repairs underway",
+      "bodyEn": "NIMA will undergo maintenance on 27 at 00:00. Some data may not update during this window. Save your work and try again afterwards.",
+      "priority": "warning",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": true,
+      "enabled": true,
+      "createdAt": "2026-11-26T17:14:38.019722Z",
+      "updatedAt": "2026-11-26T17:16:51.310580Z"
+    }
+  ]
 }
