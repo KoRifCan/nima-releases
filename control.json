@@ -1,35 +1,35 @@
 {
   "payload": {
-    "schema": 1,
-    "revision": 1,
-    "keyId": "nima-control-2026",
-    "issuedAt": "2026-11-26T13:24:00Z",
-    "mode": "active",
-    "leaseHours": 72,
-    "reason": "INITIAL-ACTIVE",
-    "title": {
-      "id": "NIMA aktif",
-      "en": "NIMA is active"
-    },
-    "message": {
-      "id": "Semua layanan NIMA berjalan normal. Pesan ini menandai revisi kontrol pertama yang ditandatangani.",
-      "en": "All NIMA services are running normally. This message marks the first signed control revision."
-    },
-    "target": {
-      "minBuild": 0,
-      "maxBuild": null
-    },
     "flags": {
-      "allowUpdate": true,
       "allowExport": false,
-      "revokeSessions": false,
-      "wipeLocal": false,
-      "autoResume": false
+      "allowUpdate": true,
+      "autoResume": false,
+      "revokeSessions": true,
+      "wipeLocal": false
+    },
+    "issuedAt": "2026-11-26T14:27:09.158991Z",
+    "keyId": "nima-control-2026",
+    "leaseHours": 24,
+    "message": {
+      "en": "All NIMA services are running normally. This message marks the first signed control revision.",
+      "id": "Semua layanan NIMA berjalan normal. Pesan ini menandai revisi kontrol pertama yang ditandatangani."
+    },
+    "mode": "disabled",
+    "reason": "INITIAL-ACTIVE",
+    "revision": 2,
+    "schema": 1,
+    "target": {
+      "maxBuild": null,
+      "minBuild": 0
+    },
+    "title": {
+      "en": "NIMA is active",
+      "id": "NIMA aktif"
     }
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "gkpUP-WzLeNQKteBTJDTtbYfA3XXz1ZhdzJx2Mc_HCls9yM6MFsn3C8xhokez5mJH4HKP_MWZQp9ALiNN3P5DQ"
+    "value": "44iE4OS1FkOmqhiL1JUmnvxBMJqdk4YM6QLNpzMKLtH3GYbsWghc7cjijl_HcqYxwujp1lBsj9bVBmDOPpyhDA"
   }
 }
