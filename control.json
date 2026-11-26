@@ -7,16 +7,16 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-26T14:31:42.536015Z",
+    "issuedAt": "2026-11-26T14:34:12.075727Z",
     "keyId": "nima-control-2026",
-    "leaseHours": 6,
+    "leaseHours": 72,
     "message": {
-      "en": "NIMA services are operating normally.",
-      "id": "Layanan NIMA berjalan normal."
+      "en": "All NIMA services are running normally. This message marks the first signed control revision.",
+      "id": "Semua layanan NIMA berjalan normal. Pesan ini menandai revisi kontrol pertama yang ditandatangani."
     },
     "mode": "active",
-    "reason": "ACTIVE",
-    "revision": 5,
+    "reason": "INITIAL-ACTIVE",
+    "revision": 6,
     "schema": 1,
     "target": {
       "maxBuild": null,
@@ -30,6 +30,6 @@
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "Ojxu3HKK9n5vFVMe56C2z-pGE1nK2vEwCoGprROFmAkHxFyF8BdTlKdmIcReZO6JSAWWEj7_P-MEUTsvSkfzDQ"
+    "value": "lLOvRlR4oz3A98bBEESJP9RIXOn1iXmLWnMO0z8OBUk_P3tDBPUtCg4ypJ73FnePcHXzrqSl_ED2n4OYXI2eCw"
   }
 }
