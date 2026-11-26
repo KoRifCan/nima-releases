@@ -1,27 +1,8 @@
 {
   "schema": 1,
-  "revision": 44,
+  "revision": 45,
   "enabled": true,
-  "updatedAt": "2026-11-26T14:06:21.113348Z",
+  "updatedAt": "2026-11-26T14:10:29.388931Z",
   "updatedBy": "KoRifCan",
-  "announcements": [
-    {
-      "id": "ann-20261126-masukan-anda-untuk-nima",
-      "title": "Masukan Anda untuk NIMA. Nasrul Peler",
-      "body": "Kami ingin mendengar pengalaman Anda memakai NIMA. Isi survei singkat melalui tautan di bawah; jawaban Anda membantu kami menentukan prioritas perbaikan.",
-      "titleEn": "Your feedback for NIMA. Nasrul Peler",
-      "bodyEn": "We would like to hear how NIMA works for you. Fill in the short survey below; your answers help us prioritise fixes.",
-      "priority": "info",
-      "channels": [],
-      "minBuild": 0,
-      "pinned": true,
-      "dismissible": true,
-      "enabled": true,
-      "actionLabel": "Buka WhatsApp",
-      "actionLabelEn": "Open WhatsApp",
-      "actionUrl": "https://wa.me/+62085156200855",
-      "createdAt": "2026-11-26T06:25:44.971700Z",
-      "updatedAt": "2026-11-26T14:06:21.113337Z"
-    }
-  ]
+  "announcements": []
 }
