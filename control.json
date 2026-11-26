@@ -2,21 +2,21 @@
   "payload": {
     "flags": {
       "allowExport": false,
-      "allowUpdate": false,
+      "allowUpdate": true,
       "autoResume": false,
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-26T15:39:48.635837Z",
+    "issuedAt": "2026-11-26T15:40:13.125104Z",
     "keyId": "nima-control-2026",
     "leaseHours": 6,
     "message": {
-      "en": "We are updating the service. Try again after the estimated completion time.",
-      "id": "Kami sedang memperbarui layanan. Coba lagi setelah waktu perkiraan selesai."
+      "en": "NIMA services are operating normally.",
+      "id": "Layanan NIMA berjalan normal."
     },
-    "mode": "maintenance",
-    "reason": "MAINTENANCE",
-    "revision": 14,
+    "mode": "active",
+    "reason": "ACTIVE",
+    "revision": 15,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
@@ -24,13 +24,13 @@
       "minBuild": 0
     },
     "title": {
-      "en": "NIMA is under maintenance",
-      "id": "NIMA sedang dalam pemeliharaan"
+      "en": "NIMA is active",
+      "id": "NIMA aktif"
     }
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "HRSz956La-XRQ1WvlHesPMdq3c4RL_uypTF_KnDu92Kl2H4wlODWr4hvVtXF9YYZpX37aakf2BQkQiiF0ziwBA"
+    "value": "obBf1ggMSJAk6PjBPEEbiyW616JQ5b-QC44x4Ot-wwnT0mUPFEnWksdy2I4dV18z-81Hd_Jvt5hNOaFN8Em7CQ"
   }
 }
