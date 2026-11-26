@@ -2,12 +2,12 @@
   "payload": {
     "flags": {
       "allowExport": false,
-      "allowUpdate": true,
+      "allowUpdate": false,
       "autoResume": false,
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-26T15:42:15.907947Z",
+    "issuedAt": "2026-11-26T15:42:24.964726Z",
     "keyId": "nima-control-2026",
     "leaseHours": 6,
     "message": {
@@ -16,7 +16,7 @@
     },
     "mode": "active",
     "reason": "ACTIVE",
-    "revision": 18,
+    "revision": 19,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
@@ -31,6 +31,6 @@
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "5itblqLd2h6VCT6s1klFBAfD1Nesf76aVW_p0xefx4T3WjmJbX_HfoxyVPw0dI-z0lp0kpgkSk9Vw_lAZxvvAQ"
+    "value": "aTAgBp2FBSX5KowmhChnXDHVGaHSfnXu4T8vCH8RLSdI3Q1hokzGYLd6AV8-Lik9s-DwC8Nr1doqAT8cDfcUDg"
   }
 }
