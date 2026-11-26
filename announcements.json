@@ -1,8 +1,22 @@
 {
   "schema": 1,
-  "revision": 49,
+  "revision": 50,
   "enabled": true,
-  "updatedAt": "2026-11-26T14:46:03.461326Z",
+  "updatedAt": "2026-11-26T15:44:00.428124Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261126-pengumuman",
+      "title": "Test Notifikasi",
+      "body": "Test",
+      "priority": "info",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "createdAt": "2026-11-26T15:43:47.520401Z",
+      "updatedAt": "2026-11-26T15:44:00.428116Z"
+    }
+  ]
 }
