@@ -7,30 +7,30 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-26T14:40:27.224743Z",
+    "issuedAt": "2026-11-26T15:27:43.959707Z",
     "keyId": "nima-control-2026",
     "leaseHours": 6,
     "message": {
-      "en": "NIMA services are operating normally.",
-      "id": "Layanan NIMA berjalan normal."
+      "en": "This build is no longer supported. Download the latest version to continue.",
+      "id": "Build ini sudah tidak didukung. Unduh versi terbaru untuk melanjutkan.\n\nNasrul Peler."
     },
-    "mode": "active",
-    "reason": "ACTIVE",
-    "revision": 8,
+    "mode": "update_required",
+    "reason": "UPDATE-REQUIRED",
+    "revision": 9,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
       "maxBuild": null,
-      "minBuild": 0
+      "minBuild": 32
     },
     "title": {
-      "en": "NIMA is active",
-      "id": "NIMA aktif"
+      "en": "A NIMA update is required",
+      "id": "Pembaruan NIMA diperlukan ya Anjing"
     }
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "MTexTrJ5Rp3oXd5xawy18kXavXEVu2Q58HXkvc-qkQmjfmaLr9uISNC6gASUPg97eGep2LZRQ5FvxMTHbtBcBw"
+    "value": "CD7AdMFSs_eA-n_GP9BG-O8nnhM5zcNRQSL5Brs31nCJgcQE_vHdOp9ALzxK4XTeAZWW3XuFnfCaL7x_77T2DA"
   }
 }
