@@ -1,8 +1,22 @@
 {
   "schema": 1,
-  "revision": 40,
+  "revision": 41,
   "enabled": true,
-  "updatedAt": "2026-11-26T04:36:36.685620Z",
+  "updatedAt": "2026-11-26T05:56:38.168803Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261126-pengumuman",
+      "title": "Nasrul Peler",
+      "body": "Josjis",
+      "priority": "info",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "createdAt": "2026-11-26T05:56:00.405050Z",
+      "updatedAt": "2026-11-26T05:56:38.168792Z"
+    }
+  ]
 }
