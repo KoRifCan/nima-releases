@@ -7,7 +7,7 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-26T15:38:17.336877Z",
+    "issuedAt": "2026-11-26T15:38:34.203673Z",
     "keyId": "nima-control-2026",
     "leaseHours": 6,
     "message": {
@@ -16,12 +16,12 @@
     },
     "mode": "maintenance",
     "reason": "MAINTENANCE",
-    "revision": 10,
+    "revision": 11,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
       "maxBuild": null,
-      "minBuild": 32
+      "minBuild": 0
     },
     "title": {
       "en": "NIMA is under maintenance",
@@ -31,6 +31,6 @@
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "ZQyxmhtFUJ7vYhBZmtYJAxoLum27078RfVUcX6KQ3nAe-wiSqskhL85s3AXQboZz4wVHfvYwNqV4hC1yzK4hBw"
+    "value": "dDLfPQ9TLgEY5JxCVDoxIPB9G1mPKRwaFxsWoL_eJIr3FptV27tJako9XOg7g66kOSt8FfAnSTlSDd6Hzq_RDA"
   }
 }
