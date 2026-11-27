@@ -7,7 +7,7 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-27T07:17:41.968915Z",
+    "issuedAt": "2026-11-27T07:18:13.462652Z",
     "keyId": "nima-control-2026",
     "leaseHours": 6,
     "message": {
@@ -16,12 +16,12 @@
     },
     "mode": "update_required",
     "reason": "UPDATE-REQUIRED",
-    "revision": 27,
+    "revision": 28,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
       "maxBuild": null,
-      "minBuild": 38
+      "minBuild": 39
     },
     "title": {
       "en": "A NIMA update is required",
@@ -31,6 +31,6 @@
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "vwhEa85XBFovY65mr9ejKGspKQwHsGup1TAYxt27cj80VMy2PxEayDBXBE8qKKEmlI1vWaPCplCrz_86qqR_DQ"
+    "value": "FeMq-HCj44yAsAtmSk3tWaOtRVrgce6U958jjU9O8x5LvyElbYCtqz9G8_-jQVSFR7kvqq-leTkHIrojhPoQAQ"
   }
 }
