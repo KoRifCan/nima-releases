@@ -7,7 +7,7 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-27T12:16:09.226331Z",
+    "issuedAt": "2026-11-27T12:44:26.614027Z",
     "keyId": "nima-control-2026",
     "leaseHours": 168,
     "message": {
@@ -16,11 +16,11 @@
     },
     "mode": "maintenance",
     "reason": "MAINTENANCE",
-    "revision": 30,
+    "revision": 31,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
-      "maxBuild": null,
+      "maxBuild": 39,
       "minBuild": 0
     },
     "title": {
@@ -31,6 +31,6 @@
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "omRL2kOPsMlcIVHt7MlJgc1xpcjVcp2YJJaHhzSj12y8uqvKa5xARnEIi0RJIPGUrNoK21Qqml4WVPXhVtmiAg"
+    "value": "u847--oMs7c6ksT7gyZE2f6wGurl65G1bP7dyYxvErJ6sEUX_X6h30oWkTABMK0aK-coTOq28YP5ZtfMSBF9DA"
   }
 }
