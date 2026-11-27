@@ -7,16 +7,16 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-27T16:25:37.286890Z",
+    "issuedAt": "2026-11-27T16:29:25.470680Z",
     "keyId": "nima-control-2026",
     "leaseHours": 6,
     "message": {
       "en": "This build is no longer supported. Download the latest version to continue.",
       "id": "Build ini sudah tidak didukung. Unduh versi terbaru untuk melanjutkan."
     },
-    "mode": "update_required",
+    "mode": "active",
     "reason": "UPDATE-REQUIRED",
-    "revision": 34,
+    "revision": 35,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
@@ -31,6 +31,6 @@
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "8aBK5jy_r-rmQf5iC9IBze_4bXLO6-AOc9meK1l4NbLvd2P7Z9ACY8W7lvOG2u0uMIuGiIRx6b_asYWsNODoCg"
+    "value": "7ShtR55PtBXQ8KVNbERsKMZTpyjOvJMf3gL9ECdL3NgIoHcO3lTGvXyC7AJn_LFjAPUVjHmfy03_MYiF69rDDg"
   }
 }
