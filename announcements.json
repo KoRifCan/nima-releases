@@ -1,8 +1,22 @@
 {
   "schema": 1,
-  "revision": 69,
+  "revision": 70,
   "enabled": true,
-  "updatedAt": "2026-11-27T16:25:44.759370Z",
+  "updatedAt": "2026-11-27T17:38:26.539101Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261127-pengumuman",
+      "title": "MAIN MULU NASRUL",
+      "body": "Ndang absen",
+      "priority": "info",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "createdAt": "2026-11-27T17:37:55.232133Z",
+      "updatedAt": "2026-11-27T17:38:26.539090Z"
+    }
+  ]
 }
