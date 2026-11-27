@@ -1,8 +1,27 @@
 {
   "schema": 1,
-  "revision": 71,
+  "revision": 72,
   "enabled": true,
-  "updatedAt": "2026-11-27T17:38:33.853030Z",
+  "updatedAt": "2026-11-27T17:56:49.093217Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261127-masukan-anda-untuk-nima",
+      "title": "Masukan Anda untuk NIMA",
+      "body": "Kami ingin mendengar pengalaman Anda memakai NIMA. Laporkan BUG ataupun permintaan Penambahan Fitur atau apapun itu melalui tautan di bawah, jawaban Anda membantu kami menentukan prioritas perbaikan.",
+      "titleEn": "Your feedback for NIMA",
+      "bodyEn": "We'd love to hear about your experiences using NIMA. Report bugs, feature requests, or anything else you can think of using the link below. Your feedback helps us prioritize improvements.",
+      "priority": "info",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "actionLabel": "WhatsApp Developer",
+      "actionLabelEn": "WhatsApp Developer",
+      "actionUrl": "https://wa.me/+6285156200855",
+      "createdAt": "2026-11-27T17:54:35.692704Z",
+      "updatedAt": "2026-11-27T17:56:49.093205Z"
+    }
+  ]
 }
