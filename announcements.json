@@ -1,8 +1,24 @@
 {
   "schema": 1,
-  "revision": 65,
+  "revision": 66,
   "enabled": true,
-  "updatedAt": "2026-11-27T07:21:39.862456Z",
+  "updatedAt": "2026-11-27T11:10:36.395445Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261127-pemeliharaan-layanan-terjadwal",
+      "title": "Pemeliharaan layanan terjadwal, perbaikan beberapa bug dan penambahan beberapa fitur.",
+      "body": "NIMA akan menjalani pemeliharaan pada 27 di jam 18:10 sampai selesai. Selama proses ini sebagian data mungkin tidak dapat diperbarui. Simpan pekerjaan Anda dan coba lagi setelah pemeliharaan selesai.",
+      "titleEn": "Scheduled maintenance",
+      "bodyEn": "NIMA will undergo maintenance. Some data may not update during this window. Save your work and try again afterwards.",
+      "priority": "warning",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "createdAt": "2026-11-27T11:09:45.216317Z",
+      "updatedAt": "2026-11-27T11:10:36.395433Z"
+    }
+  ]
 }
