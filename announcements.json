@@ -1,8 +1,24 @@
 {
   "schema": 1,
-  "revision": 60,
+  "revision": 61,
   "enabled": true,
-  "updatedAt": "2026-11-27T02:47:31.731473Z",
+  "updatedAt": "2026-11-27T03:34:03.359308Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261127-pemeliharaan-layanan-terjadwal",
+      "title": "Pemeliharaan layanan terjadwal. Penambahan Solved Aging By Area.",
+      "body": "NIMA akan menjalani pemeliharaan pada tanggal 27, pukul 10:33. Selama proses ini sebagian data mungkin tidak dapat diperbarui. Simpan pekerjaan Anda dan coba lagi setelah pemeliharaan selesai.",
+      "titleEn": "Scheduled maintenance. Added Solved Aging By Area.",
+      "bodyEn": "NIMA will undergo maintenance on 27th, 10:33 AM. Some data may not update during this window. Save your work and try again afterwards.",
+      "priority": "warning",
+      "channels": [],
+      "minBuild": 0,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": true,
+      "createdAt": "2026-11-27T03:32:08.267423Z",
+      "updatedAt": "2026-11-27T03:34:03.359293Z"
+    }
+  ]
 }
