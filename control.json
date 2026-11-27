@@ -7,30 +7,30 @@
       "revokeSessions": false,
       "wipeLocal": false
     },
-    "issuedAt": "2026-11-27T07:18:50.590575Z",
+    "issuedAt": "2026-11-27T12:16:09.226331Z",
     "keyId": "nima-control-2026",
-    "leaseHours": 6,
+    "leaseHours": 168,
     "message": {
-      "en": "This build is no longer supported. Download the latest version to continue.",
-      "id": "Build ini sudah tidak didukung. Unduh versi terbaru untuk melanjutkan."
+      "en": "We are updating the service. Try again after the estimated completion time.",
+      "id": "Kami sedang memperbarui layanan. Coba lagi setelah waktu perkiraan selesai."
     },
-    "mode": "update_required",
-    "reason": "UPDATE-REQUIRED",
-    "revision": 29,
+    "mode": "maintenance",
+    "reason": "MAINTENANCE",
+    "revision": 30,
     "schema": 1,
     "supportUrl": "https://wa.me/+6285156200855",
     "target": {
       "maxBuild": null,
-      "minBuild": 38
+      "minBuild": 0
     },
     "title": {
-      "en": "A NIMA update is required",
-      "id": "Pembaruan NIMA diperlukan"
+      "en": "NIMA is under maintenance",
+      "id": "NIMA sedang dalam pemeliharaan"
     }
   },
   "signature": {
     "alg": "Ed25519",
     "keyId": "nima-control-2026",
-    "value": "AP-PDPSqfJ2Rg4l5D5fbYyKQIXykyAkCT0GD0wDqls1KcP3SMepzSQsaUmkHanb9XtbGkyhnAiGWkmXUwPPiBA"
+    "value": "omRL2kOPsMlcIVHt7MlJgc1xpcjVcp2YJJaHhzSj12y8uqvKa5xARnEIi0RJIPGUrNoK21Qqml4WVPXhVtmiAg"
   }
 }
