@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": 63,
+  "revision": 64,
   "enabled": true,
-  "updatedAt": "2026-11-27T06:34:07.395947Z",
+  "updatedAt": "2026-11-27T07:16:49.965957Z",
   "updatedBy": "KoRifCan",
   "announcements": [
     {
@@ -15,14 +15,15 @@
       "channels": [],
       "minBuild": 0,
       "maxBuild": 37,
+      "publishAt": "2026-11-27T07:16:49.965946Z",
       "pinned": true,
       "dismissible": false,
-      "enabled": false,
+      "enabled": true,
       "actionLabel": "Perbarui",
       "actionLabelEn": "Update",
       "actionRoute": "/update",
       "createdAt": "2026-11-27T06:33:08.729200Z",
-      "updatedAt": "2026-11-27T06:34:07.395941Z"
+      "updatedAt": "2026-11-27T07:16:49.965946Z"
     }
   ]
 }
