@@ -1,27 +1,8 @@
 {
   "schema": 1,
-  "revision": 59,
+  "revision": 60,
   "enabled": true,
-  "updatedAt": "2026-11-27T02:46:05.138788Z",
+  "updatedAt": "2026-11-27T02:47:31.731473Z",
   "updatedBy": "KoRifCan",
-  "announcements": [
-    {
-      "id": "ann-20261127-pembaruan-nima-tersedia",
-      "title": "NIMA 0.6.6 (37) tersedia",
-      "body": "NIMA 0.6.6 (37)\n\n◆ YANG BARU\n\n• FAT Loss memprioritaskan NISA. Tab FAT Loss kini memakai sumber NISA + MAIA secara default. Bila MAIA dan NISA mengembalikan tiket yang sama, NISA ditampilkan lebih dulu dan baris MAIA duplikat disembunyikan. Tiket MAIA unik tetap muncul di bawahnya. Mode MAIA saja dan NISA saja tetap tersedia untuk pemeriksaan satu backend.\n• Informasi tiket lebih lengkap. Kartu FAT Loss menampilkan sumber, status, kategori, FAT/FDT, aging, area, vendor, CID, OPM, pengambil tiket, serta alasan pending/problem. Ekspor CSV dan PDF menggabungkan kedua sumber dengan NISA lebih dulu.\n• Tiket MAIA mengikuti alur MAIA. Detail FAT MAIA memakai urutan aksi dan validasi portal, termasuk OPM dan syarat CID online. Feedback MAIA mewajibkan bukti foto dan Reason Problem. Field Ops MAIA memakai urutan aksi yang sama.\n• Check-in absensi lebih mudah. Tombol Ambil koordinat site (acak) membuat titik di dalam radius site, tidak pernah melewati batas. Tersedia badge sumber koordinat, catatan radius/waktu, peringatan di luar radius, dan pratinjau selfie.\n• Urutan Aksi tiket seragam. Urutan tombol menjadi Ambil Tiket → Selesai → Periksa FAT → aksi lainnya pada FAT MAIA, FAT NISA, Feedback, dan Field Ops. Label Indonesia memakai Periksa FAT.\n• Foto dan OPM memakai rasio asli. Bukti foto FAT, Feedback, dan OPM NISA tidak lagi dipotong 3:4. Setelah memilih atau memfoto, ketuk pratinjau untuk membuka penampil penuh dengan zoom. Selfie absensi tetap 3:4 sesuai kontrak check-in.\n• Syarat CID online bisa dimatikan. Switch Wajib minimal 1 CID online tersedia di Pengaturan → FAT Loss. Default aktif; bila dimatikan, Selesai FAT MAIA tidak lagi diblokir oleh hasil Periksa FAT.",
-      "titleEn": "NIMA update available",
-      "bodyEn": "A newer NIMA version is available with fixes and stability improvements. Open the Update page to install it.",
-      "priority": "info",
-      "channels": [],
-      "minBuild": 0,
-      "pinned": true,
-      "dismissible": true,
-      "enabled": true,
-      "actionLabel": "Perbarui",
-      "actionLabelEn": "Update",
-      "actionRoute": "/update",
-      "createdAt": "2026-11-27T02:44:59.322358Z",
-      "updatedAt": "2026-11-27T02:46:05.138778Z"
-    }
-  ]
+  "announcements": []
 }
