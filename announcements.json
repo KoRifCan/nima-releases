@@ -1,8 +1,28 @@
 {
   "schema": 1,
-  "revision": 62,
+  "revision": 63,
   "enabled": true,
-  "updatedAt": "2026-11-27T06:33:04.137392Z",
+  "updatedAt": "2026-11-27T06:34:07.395947Z",
   "updatedBy": "KoRifCan",
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20261127-pembaruan-nima-tersedia",
+      "title": "Pembaruan NIMA tersedia, penambahan Solved Aging by Area",
+      "body": "Versi terbaru NIMA sudah tersedia dengan perbaikan dan peningkatan stabilitas. Buka halaman Pembaruan untuk memasangnya.",
+      "titleEn": "NIMA update available, new Solved Aging by Area",
+      "bodyEn": "A newer NIMA version is available with fixes and stability improvements. Open the Update page to install it.",
+      "priority": "info",
+      "channels": [],
+      "minBuild": 0,
+      "maxBuild": 37,
+      "pinned": true,
+      "dismissible": false,
+      "enabled": false,
+      "actionLabel": "Perbarui",
+      "actionLabelEn": "Update",
+      "actionRoute": "/update",
+      "createdAt": "2026-11-27T06:33:08.729200Z",
+      "updatedAt": "2026-11-27T06:34:07.395941Z"
+    }
+  ]
 }
